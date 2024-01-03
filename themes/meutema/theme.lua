@@ -86,8 +86,8 @@ theme.tasklist_bg_urgent                        = bw_0
 
 
 theme.border                                    = 4
-theme.border_width                              = dpi(3)
-theme.useless_gap                               = dpi(5)
+theme.border_width                              = dpi(2)
+theme.useless_gap                               = dpi(2)
 theme.systray_icon_spacing                      = 4
 
 theme.bg_systray                                = bw_0
